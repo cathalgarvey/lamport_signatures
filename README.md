@@ -4,6 +4,10 @@ by Cathal Garvey
 Released under the GNU General Public License 3.0
 A novice's implementation of the Quantum-Computer-Resistant Lamport Signature scheme in Python 3
 
+**Don't use or rely on this code. It was an experiment when I was inexperienced and looking into
+post-quantum crypto, but I was not then and am still not now competent enough to be trusted with
+security-critical cryptographic constructions.**
+
 Dependencies:
 * None if using Python 3.3
 * PyCrypto if using a lesser version of Python: Necessary for its Crypto-Secure Pseudo-Random Number Generator.
