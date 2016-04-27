@@ -1,7 +1,7 @@
 Lamport Signatures for Py3k
 ==================
 by Cathal Garvey
-Released under the GNU General Public License 3.0
+Released under the GNU Affero General Public License 3.0 or later
 A novice's implementation of the Quantum-Computer-Resistant Lamport Signature scheme in Python 3
 
 **Don't use or rely on this code. It was an experiment when I was inexperienced and looking into
